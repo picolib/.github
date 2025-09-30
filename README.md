@@ -67,12 +67,6 @@ cd pico-transformer
 pip install -r requirements.txt
 python main.py --train --epochs 10
 `````
-
-## 🤝 Contributing
-
-*Briefly mention how others can contribute. Link to a more detailed `CONTRIBUTING.md` if available.*
-**Example:** "We welcome contributions\! If you'd like to improve this `pico` project, fix a bug, or add new features, please see our [Contribution Guidelines](https://www.google.com/search?q=link-to-contributing-md)."
-
 -----
 
 ## ✅ To-Do List & Ideas for Exploration
