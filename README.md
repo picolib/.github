@@ -15,11 +15,15 @@
 
 At PicoLib, we're driven by curiosity and the joy of building. Our core mission is to **demystify complex AI/ML concepts and architectures** by recreating them from scratch in smaller, more manageable implementations.
 
-Inspired by the "smol-org" philosophy, we believe that true understanding comes from getting your hands dirty and building the foundational blocks yourself. Each project in our "library" (pico-lib!) is an exploration into the heart of a cutting-edge paper, a widely used architecture, or a fascinating piece of software.
+We believe that true understanding comes from getting your hands dirty and building the foundational blocks yourself. Each project in our "library" (pico-lib!) is an exploration into the heart of a cutting-edge paper, a widely used architecture, or a fascinating piece of software.
 
 While our primary focus is on AI/ML Engineering, we're software engineers at heart. This means we love to **explore other cool domains** too! Whether it's a neat data structure, a foundational algorithm from another field, or an interesting system design, if it sparks our curiosity, we're building a "pico-version" of it.
 
 Join us in building, learning, and sharing the fascinating underlying mechanics of the tech world.
+
+<p align="center">
+  <img src="readme_assets/picolib_mascot.png" alt="PicoLib Logo" width="150"/>
+</p>
 
 ---
 
