@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="YOUR_PICO_LIB_LOGO_URL_HERE" alt="PicoLib Logo" width="150"/>
+  <img src="readme_assets/picolib_logo.png" alt="PicoLib Logo" width="150"/>
 </p>
 
 <h1 align="center">Welcome to PicoLib!</h1>
