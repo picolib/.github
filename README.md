@@ -22,7 +22,7 @@ While our primary focus is on AI/ML Engineering, we're software engineers at hea
 Join us in building, learning, and sharing the fascinating underlying mechanics of the tech world.
 
 <p align="center">
-  <img src="readme_assets/picolib5x5.png" alt="PicoLib Logo" width="150"/>
+  <img src="readme_assets/pico5x5.png" alt="PicoLib Logo" width="150"/>
 </p>
 
 ---
